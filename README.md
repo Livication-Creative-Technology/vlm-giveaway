@@ -2,7 +2,7 @@
 
 ### NFT GIVEAWAY LIBRARY
 NOTE: This service will be incorporated in the larger Virtual Land Manager library at a later date. 
-It's here for now so people can use it until the front end is built to allow setup from the VLM web app at [https://www.dcl-vlm.io](dcl-vlm.io).
+It's here for now so people can use it until the front end is built to allow setup from the VLM web app at [dcl-vlm.io](https://www.dcl-vlm.io).
 [Virtual Land Manager Library for Decentraland](https://github.com/Livication-Creative-Technology/dcl-vlm)
 
 ---
