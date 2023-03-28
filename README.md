@@ -7,12 +7,13 @@ It's here for now so people can use it until the front end is built to allow set
 
 ---
 ### BACKEND SETUP - !IMPORTANT!
-Please contact Unknower with the following details to get your giveaway set up on the back end.
 
 #### Contact Unknower
 |Discord|Twitter|Email|
 |--------------------|----------|------------|
 |Unknower#0677|knowUnknower|unknower@livication.com|
+
+Please contact Unknower with the following details to get your giveaway set up on the back end:
 
 #### Giveaway Info Needed
 |Description|Looks like|Can be found|
