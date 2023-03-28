@@ -26,7 +26,7 @@ Please contact Unknower with the following details to get your giveaway set up o
 |Giveaway Cutoff|500|How many items you want to give away before preventing any more claims from going through|
 |Claims Per IP|3|Your preference of how many items should be able to be claimed by unique accounts making claims from the same computer or household|
 
-###THEN
+### THEN
 
 #### Set VLM as Minter
 In order to mint wearables on your behalf, VLM's wallet needs permission from the contract. This permission is revokable by the wearable submitter at any time if the VLM wallet is ever compromised or if you are unhappy with the giveaway service. 
